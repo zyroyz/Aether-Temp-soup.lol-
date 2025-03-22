@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1347901197641584681/image.png?ex=67cd8250&is=67cc30d0&hm=d26ab2243d38f3cbaff68bf75f26114419f27f9b1eb5d52babb1b26dc98eb355&=&format=webp&quality=lossless&width=581&height=648)  
+![Mod Menu Banner](https://media.discordapp.net/attachments/1346469712510451722/1347902740424294502/image.png?ex=67dff8c0&is=67dea740&hm=dfb55d24247ea5dbe6961f3044416b97b85c561f2fb6cd75b111fd48f5336d22&=&format=webp&quality=lossless&width=767&height=856)  
 
 ## 🚀 About  
 It’s inspired by **soup.lol**, and I hope you enjoy it.  
